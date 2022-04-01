@@ -1,7 +1,5 @@
 #include<bits/stdc++.h>
-
 using namespace std;
-
 int main(){
     int row;
     cin>>row;
@@ -14,7 +12,5 @@ int main(){
 		}
 		cout<<endl;
 	}
-
 	return 0;
-	
 }
