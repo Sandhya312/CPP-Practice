@@ -1,8 +1,6 @@
 //C++ Program to Calculate Average Percentage Marks
 #include<bits/stdc++.h>
-
 using namespace std;
-
 int main(){
     int subject;
     float average,sum=0;
@@ -18,7 +16,5 @@ int main(){
 	}
 	average = sum/subject;
 	cout<<"The percentage average of marks are ::"<<average<<"%";
-   
 	return 0;
-	
 }
