@@ -1,10 +1,6 @@
-//Write a program to check if elements of an array are same or not it read from front or back. E.g.-
-//2	3	15	15	3	2
-
+//Write a program to check if elements of an array are same or not it read from front or back.
 #include<bits/stdc++.h>
-
 using namespace std;
-
 int main(){
     int flag=0,a[10];
      int size = sizeof(a)/sizeof(int);
